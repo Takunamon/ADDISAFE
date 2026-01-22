@@ -1,0 +1,8 @@
+
+{
+  "name": "AddiSafe - Scanner de Aditivos",
+  "description": "Una aplicación avanzada que utiliza IA para identificar aditivos alimentarios a través de la cámara, proporcionando información sobre riesgos para la salud con fuentes de la FDA y tesis académicas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
